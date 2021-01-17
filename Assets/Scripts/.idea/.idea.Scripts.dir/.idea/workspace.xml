@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d442da0-4949-4bfc-8c76-c26fd3e536d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Berries.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Berries.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coin.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coin.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collectables.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collectables.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoorOpener.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoorOpener.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enemy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Enemy.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameInitializator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameInitializator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Player.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Player.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trap.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trap.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trigger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trigger.cs.meta" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Enemy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Collectables.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Coin.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameInitializator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Berries.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Trigger.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Trap.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DoorOpener.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GameInitializator.cs" />
+        <option value="$PROJECT_DIR$/GameController.cs" />
+        <option value="$PROJECT_DIR$/.idea/Trigger.cs" />
+        <option value="$PROJECT_DIR$/DoorOpener.cs" />
+        <option value="$PROJECT_DIR$/Trap.cs" />
+        <option value="$PROJECT_DIR$/Trigger.cs" />
+        <option value="$PROJECT_DIR$/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Collectables.cs" />
+        <option value="$PROJECT_DIR$/Berries.cs" />
+        <option value="$PROJECT_DIR$/Coin.cs" />
+        <option value="$PROJECT_DIR$/Player.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nBdjekzCNsjyVWePBsiWqoIKQW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="161" key="SettingsEditor" timestamp="1610868620057">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="161" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1610868620057" />
+  </component>
+</project>
