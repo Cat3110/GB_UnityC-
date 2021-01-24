@@ -1,22 +1,15 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
 namespace RollnBall
 {
-    public class GameInitializator : MonoBehaviour
+    public sealed class GameInitializator
     {
-        // Start is called before the first frame update
-        void Start()
+        #region
+
+        public GameInitializator(GameController gameController, PlayerData playerData, CameraData cameraData)
         {
-        
+            new PlayerInitializator(gameController, playerData);
+            new CameraInitializator(gameController, cameraData);
         }
 
-        // Update is called once per frame
-        void Update()
-        {
-        
-        }
+        #endregion
     }
 }
-
