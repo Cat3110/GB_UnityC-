@@ -14,6 +14,13 @@ namespace RollnBall
         private List<IUpdatable> _iUpdatables = new List<IUpdatable>();
 
         #endregion
+
+
+        #region Fields
+
+        public Pill pill;
+
+        #endregion
         
         
         #region UnityMethods
@@ -21,6 +28,7 @@ namespace RollnBall
         private void Start()
         {
             new GameInitializator(this, _playerData, _cameraData);
+            pill.onInteraction += AddPoints;
         }
 
         private void Update()
@@ -39,6 +47,11 @@ namespace RollnBall
         public void AddUpdatable(IUpdatable iUpdatable)
         {
             _iUpdatables.Add(iUpdatable);
+        }
+
+        public void AddPoints()
+        {
+            Debug.Log("Points were added");
         }
 
         #endregion

@@ -1,12 +1,18 @@
+using System;
 using UnityEngine;
+
 
 namespace RollnBall
 {
     public class Pill : InteractiveObject
-    {
-        #region PrivateData
+    {        
+        #region Fields
 
-        [SerializeField] private GameObject _pill;
+        public GameController GameController;
+        
+        public delegate void MethodContainer();
+
+        public event MethodContainer onInteraction;
 
         #endregion
 
@@ -16,6 +22,7 @@ namespace RollnBall
         protected override void Interaction()
         {
             base.Interaction();
+            onInteraction?.Invoke();
         }
 
         #endregion

@@ -724,6 +724,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _playerData: {fileID: 11400000, guid: 081958035e78b468491fc0fffe32ebad, type: 2}
   _cameraData: {fileID: 11400000, guid: 46ab6875a2ab3411c93cdededec7045b, type: 2}
+  pill: {fileID: 944164521}
 --- !u!1 &150922097
 GameObject:
   m_ObjectHideFlags: 0
@@ -2972,7 +2973,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d35f695f7795434989f0a93dcc8bef95, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _pill: {fileID: 944164516}
+  GameController: {fileID: 0}
 --- !u!1 &1027741762
 GameObject:
   m_ObjectHideFlags: 0
